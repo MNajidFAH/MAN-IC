@@ -1,2 +1,1 @@
-# MAN-IC
-# Just Try in MAN-IC
+Just Try in ICB
